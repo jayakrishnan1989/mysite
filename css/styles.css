@@ -1,0 +1,112 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+hr{
+    border: 0px;
+    border-top: dotted;
+    border-width: 5px;
+    width: 5%;
+    border-color: grey;
+}
+h1{
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.562rem;
+    color: #66BFBF;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 300px;
+}
+.skill-row{
+    width: 50%;
+    margin: 10px auto 10px auto;
+    text-align: left;
+    line-height: 2;
+    padding-bottom: 40px;
+    
+}
+.middle-container{
+    
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 30px;
+}
+
+.profile{
+    padding-top: 10%;
+}
+
+.j-img {
+    position: absolute;
+    left:850px;
+    top: 10px;
+    width: 35%;
+    opacity: 0.7;
+    margin: 0;
+}
+
+
+
+.subtitle{
+    font-weight: normal;
+    color: #66BFBF;
+}
+
+.test-image{
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+.hobbies{
+    width: 200px;
+    float: right;
+    margin-left: 30px;
+}
+
+.skills{
+    margin-bottom: 80px;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: .56rem;
+    padding-top: 1%;
+}
+
+.footer-link:link,.footer-link:visited{
+    color: #11999E ; 
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn:link, .btn:visited {
+    background-color: #66BFBF;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    font-family: sans-serif;
+  }
